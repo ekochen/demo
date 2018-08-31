@@ -1,2 +1,2 @@
-FROM gcr.io/heptio-images/sonobuoy:v0.9.0
-ENV 1=1
+FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.2.0
+ENV TAG=V0.2.0
